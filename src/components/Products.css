@@ -1,0 +1,16 @@
+.products{
+background: green;
+border: 2px solid white;
+ 
+}
+.Sidebar{
+    margin-left: 0%;
+    left: 0;
+    border: 2px solid white;
+    border-radius: 1em;
+     
+}
+.Body{
+    border-radius: 1em;
+    background: white;
+}
